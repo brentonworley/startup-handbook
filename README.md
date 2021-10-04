@@ -25,7 +25,8 @@ Run the following command to create all the necessary starter files and director
 
     > jekyll new .
 
-**Add stuff in here about the Gem and config.yml files**
+> **TODO:**
+> Add stuff in here about the Gem and config.yml files, in particular the use of the _config_lcoal.yml file for the just-the-docs
 
 Run the following commands to update the Gemfile.lock and build the project
 
