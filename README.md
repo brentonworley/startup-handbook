@@ -28,15 +28,22 @@ Run the following command to create all the necessary starter files and director
 > **TODO:**
 > Add stuff in here about the Gem and config.yml files, in particular the use of the _config_lcoal.yml file for the just-the-docs
 
+The [`just-the-docs`](https://pmarsceill.github.io/just-the-docs/) theme has been used for layout. This theme separate local and remote theme definitions:
+
+    > theme: "just-the-docs"
+    > remote_theme: pmarsceill/just-the-docs
+
+To manage this separate configuration files have been defined for running the site locally versus in GitHub Pages.
+
 Run the following commands to update the Gemfile.lock and build the project
 
     > bundle update
 
     > bundle install
 
-Startup the local Jekyll server:
+Startup the local Jekyll server, not the specification of the local configuration file:
 
-    > bundle exec jekyll server --watch
+    > bundle exec jekyll server --config _config_local.yml --watch
 
 # Useful references:
 

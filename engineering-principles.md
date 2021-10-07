@@ -5,7 +5,8 @@ nav_order: 4
 ---
 # Engineering Principles
 
-The Adepto Engineering team have agreed the following set of Principles to guide us in the continual jourey of building a great product and a quality code base.
+> TODO: the following are examples of Engineering principles.
+> These still need to be reviewed and generalised.
 
 ## Architecture Principles
 

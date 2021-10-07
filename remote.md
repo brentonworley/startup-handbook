@@ -3,9 +3,16 @@ layout: default
 title: Remote Practices
 nav_order: 3
 ---
+# Introduction
+
+- Why remote?
+- What are the benefits?
+- Why would we go down this path?
+- But doesn't Agile require co-located teams? How to address this paradox.
 
 ## Remote First
-As a small but globably distributed organisation, we have embraced remote working both out of a necessity and as an opportunity to improve productivity and employee experience. Successful implementation of remote working within an organisation or team is not as simple as just allowing people to work remotely, it is important to make some fairly fundamental changes to how you work and especially collaborate to ensure that remote workers are not disadvantaged or hindered from contributing to the team environment and completing their work. To facilitate this we have adopted a **Remote First** approach with a number of practices and principles to elevate remote working and workers to the same level as those in the office.
+
+Successful implementation of remote working within an organisation or team is not as simple as just allowing people to work remotely, it is important to make some fairly fundamental changes to how you work and especially collaborate to ensure that remote workers are not disadvantaged or hindered from contributing to the team environment and completing their work. To facilitate this we have adopted a **Remote First** approach with a number of practices and principles to elevate remote working and workers to the same level as those in the office.
 
 This is not about discouraging face to face, and in-person collaboration, as whenever possible this is absolutely  most effective. The intent adopt practices that address the challenges of major timezone difference across the business and teams and to level-up remote communication and collaboration to feel as cohesive as sitting in the same room.
 
