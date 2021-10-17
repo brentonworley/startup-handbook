@@ -21,6 +21,8 @@ Documenting these thoughts and topics as a handbook is to encourage collaboratio
 
 *A brief summary of the scope of the handbook.*
 
+![Delivery Model](./assets/Product Development model.jpg)
+
 ## It's all about Culture
 
 > It doesn't make sense to hire smart people and then tell them what to do;
