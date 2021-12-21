@@ -129,11 +129,11 @@ Let's get specific about what tests we want to include in which parts of the bui
 # Monitor and Measure
 
 Visual inspections of code, through peer reviews in the PR process, are important, however code quality tools such as SonarQube and Gitlab's code quality provide a reliable mechanism to quantitatively and qualitatively monitor the quality of the code base. This includes measures such as test coverage, code complexity, security and more.
-- All GitLab repositories should have GitLab's Code Quality configured.
-- Until all repositories are moved onto GitLab, repositories still on Bitbucket should have SonarQube configured.
+- All repositories are integrated with a code coverage tool such as SonarCloud or Codacy.
+- All repositories are integrated have code scanning enabled, i.e. SonarCloud or GitHub code scanning.
 - Metrics need to be agreed regarding acceptable quality thresholds and monitored using these tools.
 
 The ultimate measure of quality is the number of defects, that is both the number of defects in Production and the number of defects identified through the SDLC. To monitor the effectiveness of our QA Culture we have identified a number of metrics and reports that allow us measure our progress:
-- [Number of defects in the Production system](https://adeptoproduct.atlassian.net/wiki/spaces/AP/pages/505512176/QA+Dashboard) - both Total number and by micro-service and micro Front-end (once implemented).
-- [Total number of defects](https://adeptoproduct.atlassian.net/wiki/spaces/AP/pages/996376744/October+2019) introduced every month by micro-service and micro Front-end (once implemented)
-- [Number of regression defects](https://adeptoproduct.atlassian.net/wiki/spaces/AP/pages/996376744/October+2019) introduced every month by micro-service and micro Front-end (once implemented)
+- Number of defects in the Production system - both Total number and by system or micro-service.
+- Total number of defects introduced every month by system or micro-service
+- Number of regression defects introduced every month by system or micro-service
