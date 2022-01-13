@@ -77,7 +77,7 @@ The logic behind this is that the lower level tests are cheap to write, cheap to
 ## Contract API Testing
 
 Our platform is based on a number of REST-based microservices. Making sure that these services behave as expected and we are aware of the impact to any changes to the API's is crucial to maintain the stability of the system.
-- Where ever possible (most cases for us) implement **Consumer Driven Contract (CDC)** tests. See (https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests) for a detailed description.
+- Where ever possible implement **Consumer Driven Contract (CDC)** tests. See (https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests) for a detailed description.
 - Where CDC tests are not possible, i.e. public APIs, implement **Provider** tests.
 
 ## Functional UI or Acceptance Tests
@@ -122,13 +122,13 @@ Although reviews and approvers of a Pull Request should also be assessing the po
 
 # The Deployment Pipeline
 
-Let's get specific about what tests we want to include in which parts of the build pipelines.
-//TODO team input here on this one.
+//TODO
+
 - Quality thresholds build into the build pipeline.
 
 # Monitor and Measure
 
-Visual inspections of code, through peer reviews in the PR process, are important, however code quality tools such as SonarQube and Gitlab's code quality provide a reliable mechanism to quantitatively and qualitatively monitor the quality of the code base. This includes measures such as test coverage, code complexity, security and more.
+Visual inspections of code, through peer reviews in the PR process, are important, however code quality tools such as SonarCloud and Gitlab's code quality provide a reliable mechanism to quantitatively and qualitatively monitor the quality of the code base. This includes measures such as test coverage, code complexity, security and more.
 - All repositories are integrated with a code coverage tool such as SonarCloud or Codacy.
 - All repositories are integrated have code scanning enabled, i.e. SonarCloud or GitHub code scanning.
 - Metrics need to be agreed regarding acceptable quality thresholds and monitored using these tools.
