@@ -26,9 +26,9 @@ It's certainly okay to have a face to face conversation with a colleague or team
 
 The only scalable solution for communication amongst remote/distributed teams is to communicate asynchronously where ever possible.
 
-What does this mean at Adepto?
+What does this mean at Acme.com?
 
-The primary mechanism for asynchronous communication as Adepto is slack, and there are some basic guidelines that it is important to understand:
+The primary mechanism for asynchronous communication as Acme.com is slack, and there are some basic guidelines that it is important to understand:
 
 - Asynchronous communication is **asynchronous!** Remember the person or people that you are comminicating with may be otherwise busy, or sound asleep. Sometimes you are able to chat back and forth in essentially real time, but don't expect that someone must or will respond to your slack message immediately.
 - There’s a general expectation to **respond within 24 hours**, but beyond that each person can decide when to check and respond to their messages.
