@@ -92,8 +92,6 @@ However, it doesn't come without dangers and hence here are some suggestions of 
 When communicating and setting meeting invites, especially across timezones, please consider the following.
 
 - Don't expect that someone will read or respond to your email or slack message out of hours or over the weekend. They may do, but this should not be considered as an expectation.
-- Given our timezone challenges, 7am to 7pm are considered reasonable hours. If you are trying to communicate with someone or book a meeting time outside these hours then by default please respect that the person may **NOT** be available.
-- As a general rule, try to prioritise the UK/AUS overlap time for cross region meetings and calls, i.e. 7-10am (GMT) and 4-7pm (AEST). For the UK team this means, where possible avoid booking UK only meetings first thing in the morning, and for the Australian team minimise bookings in late afternoon/early evening that are Australia specific.
 - When booking meetings you should **ALWAYS** check the persons availability, and respect this.
 - If someone has a meeting, appointment, family commitment booked in their calendar then **DO NOT** book over this. If this is the only time available then contact the person first to check if there is a possibility that they can move or reschedule. Don't assume that your meeting is more important.
 - Respecting peoples time in this way can make it difficult to book last minute meetings, so try and avoid that situation. Is it really so urgent that it can't wait for 1 day? We are asking a lot of people to make pretty considerable sacrifices with their personal time, for this to be sustainable we must respect that time.
@@ -102,10 +100,6 @@ When communicating and setting meeting invites, especially across timezones, ple
 ### Escalation of communication
 It is important that non real-time communication is **NOT** in real time, which means an immediate response is not required and people can and should turn off notifications on these primary asynchronous channels, both to put aside blocks of time to focus on a task at hand, and also to maintain personal balance.
 
-However, our primary focus as a company is to build and support the Adepto platform. For a number of reasons, including a major outage, it is sometimes critical that the team, particularly the Engineering and DevOps team, can be contacted when required and act swiftly. For this reason it is important that an alternative communication mechanism is in place as an escalation channel and also in the case of emergencies.
+There will however be cases where it is important to escalate in real time. For this reason it is important that an alternative communication mechanism is in place as an escalation channel and also in the case of emergencies.
 
 **SMS** and **Mobile phone** are the escalation mechanism in this situation.
-
-This document will provide details of who to contact in an emergency, and contact details.
-
-Please remember that these are personal mobile phone numbers of our staff, treat them with due privacy and do not abuse this escalation channel.

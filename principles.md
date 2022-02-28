@@ -31,7 +31,7 @@ Numerous studies and reviews of successful companies and teams have highlighted 
 
 ## Blameless Culture
 
-We have adopted a Blameless Culture at Adepto because we feel that it is important to encourage people to surface issues and concerns as quickly as possible so that they can be addressed, and also to foster innovation and experiementation as per the fail fast, fail often principle.
+By default we lean toward a Blameless Culture because we feel that it is important to encourage people to surface issues and concerns as quickly as possible so that they can be addressed, and also to foster innovation and experiementation as per the fail fast, fail often principle.
 
 Living this on a day-to-day basis means that we raise things issues as we find them, but when you do this try to do so in a blameless manner, be factual and not personal about it. Equally, if something that you have done is raised or pointed out, don't assume you are being blamed, we just want to continue to improve.
 
