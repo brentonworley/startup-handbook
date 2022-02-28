@@ -53,7 +53,7 @@ nav_order: 4
 ## Quality and Testing Principles
 - **Follow the Testing Pyramid**
 
-![Automation Test Pyramid](../assets/testPyramid.png)
+![Automation Test Pyramid](../main/assets/testPyramid.png)
 - **Test every possible case.** Make sure that every possible case and outcome is being tested. High code coverage reduces the cost of ownership over the long term.
 - **Implementation Agnostic Tests.** Your code should be able to be tested without understanding or touching the inner workings of a class or component.
 - **Everyones responsibility.** Quality and testing is not just the responsibility of the QA team. Everything you merge to master should be production ready.
